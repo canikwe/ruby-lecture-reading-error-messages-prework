@@ -1,5 +1,3 @@
 a = "hello world"
 
-hello_world(a)
- puts a
- end
+hello_world = "sup"
